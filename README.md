@@ -26,22 +26,22 @@ Dataset	Generated synthetically using NumPy
 Sleep_Quality_Predictor/
 │
 ├── app/
-│   └── streamlit_app.py        # Streamlit user interface
+│ └── streamlit_app.py # Streamlit user interface
 │
 ├── data/
-│   └── sleep_data.csv          # Generated dataset
+│ └── sleep_data.csv # Generated dataset
 │
 ├── models/
-│   └── sleep_model.joblib      # Trained ML model
+│ └── sleep_model.joblib # Trained ML model
 │
 ├── results/
-│   ├── metrics.txt             # Model evaluation metrics
-│   └── roc_curve.png           # ROC curve visualization
+│ ├── metrics.txt # Model evaluation metrics
+│ └── roc_curve.png # ROC curve visualization
 │
 ├── scripts/
-│   ├── generate_dataset.py     # Creates synthetic dataset
-│   ├── train_model.py          # Trains Random Forest model
-│   └── predict_example.py      # Checks prediction consistency
+│ ├── generate_dataset.py # Creates synthetic dataset
+│ ├── train_model.py # Trains Random Forest model
+│ └── predict_example.py # Checks prediction consistency
 │
 ├── requirements.txt
 └── README.md
