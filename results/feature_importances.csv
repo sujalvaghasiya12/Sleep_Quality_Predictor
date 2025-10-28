@@ -1,0 +1,14 @@
+feature,importance
+num__hours_of_sleep,0.5024997270215743
+num__caffeine_intake,0.13163562695085018
+num__screen_time,0.08147427227088959
+num__exercise_minutes,0.07613611607863215
+num__bedtime_hour,0.06057826717026388
+num__steps_walked,0.056374347583297915
+num__stress_level,0.03718590791063148
+num__alcohol_units,0.02491318721339219
+cat__weekday_weekday,0.006597740076836898
+cat__ambient_light_medium,0.006451123939615598
+cat__weekday_weekend,0.00633238102918236
+cat__ambient_light_low,0.00625970555303335
+cat__ambient_light_high,0.003561597201800257
