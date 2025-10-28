@@ -77,7 +77,3 @@ Deploy app on Streamlit Cloud / Hugging Face Spaces
 Add feature importance visualization
 
 Optimize hyperparameters for higher accuracy
-
-👨‍💻 Author
-Sujal Vaghasiya
-📧 GitHub Profile
