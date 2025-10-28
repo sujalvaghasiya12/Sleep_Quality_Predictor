@@ -7,20 +7,24 @@ The Sleep Quality Predictor is a machine learning web application that predicts 
 This project demonstrates a complete ML pipeline — from synthetic data generation and model training to web deployment using Streamlit.
 
 🌙 Key Features
+<pre>
 
 ✅ Predicts Good or Poor sleep quality
 ✅ Built using Random Forest Classifier for high accuracy
 ✅ Includes a Streamlit web app for real-time predictions
 ✅ Synthetic dataset generation for reproducibility
 ✅ Displays model confidence (probability of good sleep)
+</pre>
 
 ⚙️ Tech Stack
-Layer	Tools Used
-Programming Language	Python
-Libraries	Pandas, NumPy, Scikit-Learn, Joblib
-Visualization	Matplotlib
-Web Framework	Streamlit
-Dataset	Generated synthetically using NumPy
+<pre>
+
+Programming Language:	Python
+Libraries:	Pandas, NumPy, Scikit-Learn, Joblib
+Visualization:	Matplotlib
+Web Framework:	Streamlit
+Dataset:	Generated synthetically using NumPy
+</pre>
 
 📂 Project Structure
 <pre>
@@ -47,8 +51,9 @@ Sleep_Quality_Predictor/
 ├── requirements.txt
 └── README.md
 </pre>
-
 🚀 How to Run Locally
+<pre>
+
 1️⃣ Clone the repository
 git clone https://github.com/sujalvaghasiya12/Sleep_Quality_Predictor.git
 cd Sleep_Quality_Predictor
@@ -69,13 +74,6 @@ streamlit run app/streamlit_app.py
 
 
 Open the URL printed in your terminal (usually http://localhost:8501).
+</pre>
 
-🧩 Future Improvements
 
-Integrate real-world sleep tracking data
-
-Deploy app on Streamlit Cloud / Hugging Face Spaces
-
-Add feature importance visualization
-
-Optimize hyperparameters for higher accuracy
